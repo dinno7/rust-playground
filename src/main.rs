@@ -6,6 +6,7 @@
 // mod operation;
 // mod matrix;
 // mod arrays;
+// mod vectors;
 
 fn main() {
     //print::run();
@@ -16,4 +17,5 @@ fn main() {
     // operation::run();
     // matrix::run();
     // arrays::run();
+    // vectors::run();
 }
