@@ -4,7 +4,8 @@
 // mod strings;
 // mod tuples;
 // mod operation;
-mod matrix;
+// mod matrix;
+// mod arrays;
 
 fn main() {
     //print::run();
@@ -13,5 +14,6 @@ fn main() {
     // strings::run();
     // tuples::run();
     // operation::run();
-    matrix::run();
+    // matrix::run();
+    // arrays::run();
 }
