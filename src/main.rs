@@ -7,6 +7,7 @@
 // mod matrix;
 // mod arrays;
 // mod vectors;
+mod conditions;
 
 fn main() {
     //print::run();
@@ -18,4 +19,5 @@ fn main() {
     // matrix::run();
     // arrays::run();
     // vectors::run();
+    conditions::run();
 }
